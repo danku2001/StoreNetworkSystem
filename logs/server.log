@@ -1,0 +1,30 @@
+2026-01-18T13:26:28.371359900 | SERVER | Starting server on port 5000
+2026-01-18T13:27:31.069638500 | CONNECT | Client connected: /127.0.0.1:57849
+2026-01-18T13:27:43.080617400 | LOGIN | user=admin role=ADMIN
+2026-01-18T13:28:06.420229 | CONNECT | Client connected: /127.0.0.1:57854
+2026-01-18T13:28:12.967058 | LOGIN_FAIL | reason=DuplicateLogin user=admin
+2026-01-18T13:35:52.670725200 | SERVER | Starting server on port 5000
+2026-01-18T13:35:59.094778300 | CONNECT | Client connected: /127.0.0.1:55066
+2026-01-18T13:36:54.680418300 | LOGIN_FAIL | reason=UserNotFound user=java -cp out client.ClientMain
+2026-01-18T13:36:59.754214600 | CONNECT | Client connected: /127.0.0.1:61052
+2026-01-18T13:37:13.118770200 | LOGIN_FAIL | reason=DuplicateLogin user=admin
+2026-01-18T13:37:18.844684400 | CONNECT | Client connected: /127.0.0.1:61055
+2026-01-18T13:37:22.999927100 | LOGIN_FAIL | reason=WrongPassword user=dan
+2026-01-18T13:37:34.569584900 | LOGOUT | user=admin disconnected
+2026-01-18T13:37:39.006283700 | SERVER | Starting server on port 5000
+2026-01-18T13:41:15.541569900 | SERVER | Starting server on port 5000
+2026-01-18T13:41:43.129672100 | CONNECT | Client connected: /127.0.0.1:59397
+2026-01-18T13:41:49.713276100 | LOGIN | user=admin role=ADMIN
+2026-01-18T13:41:54.097401500 | LOGOUT | user=admin disconnected
+2026-01-18T13:42:46.115962400 | CONNECT | Client connected: /127.0.0.1:59398
+2026-01-18T13:42:52.463606600 | LOGIN | user=admin role=ADMIN
+2026-01-18T13:42:55.767596200 | LOGOUT | user=admin disconnected
+2026-01-18T13:45:16.334279200 | SERVER | Starting server on port 5000
+2026-01-18T13:45:25.899685800 | CONNECT | Client connected: /127.0.0.1:51913
+2026-01-18T13:45:33.559429900 | LOGIN | user=admin role=ADMIN
+2026-01-18T13:48:53.137785200 | SERVER | Starting server on port 5000
+2026-01-18T13:49:01.704953800 | CONNECT | Client connected: /127.0.0.1:52581
+2026-01-18T13:49:08.231694300 | LOGIN | user=admin role=ADMIN
+2026-01-18T13:53:07.163349 | SERVER | Starting server on port 5000
+2026-01-18T13:53:23.932803200 | CONNECT | Client connected: /127.0.0.1:50930
+2026-01-18T13:54:34.902177200 | ERROR | client handler error: Connection reset
